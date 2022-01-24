@@ -1,16 +1,23 @@
-### Hi there 👋
+### What's up? ![](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/ezgif.com-gif-maker(1).gif) I'm Kelvin, here u can find my piece of art(or nah)! ###
 
-<!--
-**Kelvin-Jesus/Kelvin-Jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://instagram.com/k.j0ta">![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/ezgif.com-gif-maker.png "My Instagram")    <a href="https://codepen.io/kj-theprog">![picture alt](https://github.com/Kelvin-Jesus/Kelvin-Jesus/blob/main/codepen.png?raw=true "My CodePen")</a>
 
-Here are some ideas to get you started:
+ #### About me ####
+- 🔭 I’m a Front-End/Back-End currently working on <a href="https://github.com/agenciawb9">WB9</a>
+- 🌱 I’m currently learning NodeJS & ReactJS
+- ⚡ Fun fact: I'ma music addict
+ 
+### Language/Tools i use ###
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/JS.png "JavaScript Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/node.png "NodeJS Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/php.png "PHP Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/react.png "ReactJS Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/sql.png "SQL Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/css3.png "CSS3 Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/html5.png "HTML5 Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/figma.png "Figma Logo")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### i'll learn ####
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/nextjs.png "NEXTJS Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/typescript.png "TypeScript Logo")
+  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/rust.png "Rust Logo")
