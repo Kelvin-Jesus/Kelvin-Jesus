@@ -3,7 +3,7 @@
 <a href="https://instagram.com/k.j0ta">![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/ezgif.com-gif-maker.png "My Instagram")    <a href="https://codepen.io/kj-theprog">![picture alt](https://github.com/Kelvin-Jesus/Kelvin-Jesus/blob/main/codepen.png?raw=true "My CodePen")</a>
 
  #### About me ####
-- 🔭 I’m a Front-End/Back-End currently looking for a job
+- 🔭 I’m a Front-End currently looking for a job
 - 🌱 I’m currently learning NodeJS & ReactJS
 - ⚡ Fun fact: I'ma music addict
  
