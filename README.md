@@ -1,6 +1,7 @@
 ### What's up? ![](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/ezgif.com-gif-maker(1).gif) I'm Kelvin, here u can find my piece of art(or nah)! ###
 
-<a href="https://instagram.com/k.j0ta">![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/ezgif.com-gif-maker.png "My Instagram")    <a href="https://codepen.io/kj-theprog">![picture alt](https://github.com/Kelvin-Jesus/Kelvin-Jesus/blob/main/codepen.png?raw=true "My CodePen")</a>
+<a href="https://instagram.com/k.j0ta">![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/ezgif.com-gif-maker.png "My Instagram")    <a href="https://codepen.io/kj-theprog">![picture alt](https://github.com/Kelvin-Jesus/Kelvin-Jesus/blob/main/codepen.png?raw=true "My CodePen")</a>    <a href="https://www.linkedin.com/in/kj-ac/">![picture alt](https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh "My Linkedin")</a>
+ 
 
  #### About me ####
 - 🔭 I’m a Front-End currently looking for a job
