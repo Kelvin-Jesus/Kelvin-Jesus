@@ -11,7 +11,6 @@
 ### Language/Tools i use ###
   ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/JS.png "JavaScript Logo")
   ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/node.png "NodeJS Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/php.png "PHP Logo")
   ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/react.png "ReactJS Logo")
   ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/sql.png "SQL Logo")
   ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/css3.png "CSS3 Logo")
