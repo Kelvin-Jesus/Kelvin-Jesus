@@ -4,8 +4,8 @@
  
 
  #### About me ####
-- 🔭 I’m a Front-End currently looking for a job
-- 🌱 I’m currently learning NodeJS & ReactJS
+- 🔭 I’m a Front-End developer
+- 🌱 I’m currently learning ReactJS
 - ⚡ Fun fact: I'ma music addict
  
 ### Language/Tools i use ###
