@@ -1,23 +1,19 @@
-### What's up? ![](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/ezgif.com-gif-maker(1).gif) I'm Kelvin, here u can find my piece of art(or nah)! ###
+ # Kelvin Jesus Avelino Cambiaghi
+### Learning everyday as much as I can.
+ <br>
 
-<a href="https://instagram.com/k.j0ta">![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/ezgif.com-gif-maker.png "My Instagram")    <a href="https://codepen.io/kj-theprog">![picture alt](https://github.com/Kelvin-Jesus/Kelvin-Jesus/blob/main/codepen.png?raw=true "My CodePen")</a>    <a href="https://www.linkedin.com/in/kj-ac/">![picture alt](https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh "My Linkedin")</a>
- 
+ 🔭 Passionate about Front-End.<br>
+ 🪐 Love music, programming, Astronomy and drawing.<br>
+ 📕 Learning React.<br>
+ <img src="https://gcdnb.pbrd.co/images/OupeXZplHjFz.png?o=1">Rubik's cube solver.
 
- #### About me ####
-- 🔭 I’m a Front-End developer
-- 🌱 I’m currently learning ReactJS
-- ⚡ Fun fact: I'ma music addict
- 
-### Language/Tools i use ###
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/JS.png "JavaScript Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/node.png "NodeJS Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/react.png "ReactJS Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/sql.png "SQL Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/css3.png "CSS3 Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/html5.png "HTML5 Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/figma.png "Figma Logo")
+### Social
+ <a aligh="left" href="https://github.com/Kelvin-Jesus" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:kj.avelino.cambiaghi@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/kj-ac/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-#### i'll learn ####
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/nextjs.png "NEXTJS Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/typescript.png "TypeScript Logo")
-  ![picture alt](https://raw.githubusercontent.com/Kelvin-Jesus/Kelvin-Jesus/main/rust.png "Rust Logo")
+⚐ Based in Maringá - PR<br>
+
+ϟ Currently creating a Web based music player with a little of WebAssembly.
+ϟ Recently Adopted a cute kitty named Ravena.
+
+ ## Skills
+   <a href="" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/go.svg" alt="Go" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> 
