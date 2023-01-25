@@ -5,7 +5,7 @@
  🔭 Passionate about Front-End.<br>
  🪐 Love music, programming, Astronomy and drawing.<br>
  📕 Learning React.<br>
- <img src="https://gcdnb.pbrd.co/images/OupeXZplHjFz.png?o=1">Rubik's cube solver.
+ <img src="https://gcdnb.pbrd.co/images/OupeXZplHjFz.png?o=1">  Rubik's cube solver.
 
 ### Social
  <a aligh="left" href="https://github.com/Kelvin-Jesus" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:kj.avelino.cambiaghi@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/kj-ac/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
