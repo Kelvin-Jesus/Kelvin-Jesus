@@ -62,7 +62,7 @@ Always working with JavaScript, Go or Gleam, and always learning something new.
 
 ## 📖 Currently Reading
 
-[![GoodReads](https://img.shields.io/badge/GoodReads-F3722C?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/review/list/200745467?shelf=currently-reading)
+[![GoodReads](https://img.shields.io/badge/GoodReads-F3722C?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/200745467-kelvin-jesus)
 
 ---
 
