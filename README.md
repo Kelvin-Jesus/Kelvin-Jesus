@@ -8,7 +8,7 @@
 ---
 
 5+ years building end-to-end solutions that solve real problems and scale with the business.
-Always working with JavaScript, Go or Gleam, and always learning something new.
+Always working with JavaScript/Node.js, Go or Gleam, and always learning something new.
 
 - 🔭 Currently working with **Go, PHP, Vue.js, RabbitMQ and Redis** in high-demand e-commerce
 - ⚡ Focused on two pillars: **UX** (intuitive products) and **DX** (clean, documented code)
@@ -46,6 +46,14 @@ Always working with JavaScript, Go or Gleam, and always learning something new.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### ⚡ Featured Projects
+
+#### 🔄 [Fusion Flow](https://github.com/FusionFlow-app/fusion_flow)
+**Contributor on Fusion Flow**. An open-source, low-code workflow automation platform built for all communities. It features a powerful engine for real-time task orchestration. Currently in **active development** and welcoming contributions.
+* **Tech Stack:** Elixir, Phoenix LiveView, Node.js.
 
 ---
 
