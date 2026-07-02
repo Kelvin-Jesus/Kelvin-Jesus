@@ -51,13 +51,13 @@ Always working with JavaScript/Node.js, Go or Gleam, and always learning somethi
 
 ### ⚡ Featured Projects
 
-#### 🔄 [Fusion Flow](https://github.com/FusionFlow-app/fusion_flow)
-**Contributor on Fusion Flow**. An open-source, low-code workflow automation platform built for all communities. It features a powerful engine for real-time task orchestration. Currently in **active development** and welcoming contributions.
-* **Tech Stack:** Elixir, Phoenix LiveView, Node.js.
-
 #### 👻 [Mailghost](https://github.com/Kelvin-Jesus/mailghost)
 **Creator and maintainer of Mailghost**. An open-source, cross-platform CLI for creating and checking disposable Mail.tm inboxes directly from the terminal. It provides a fast, private, and developer-friendly email workflow, with releases for **macOS, Linux, and Android**.
 * **Tech Stack:** Rust, Tokio, Reqwest, Clap.
+
+#### 🔄 [Fusion Flow](https://github.com/FusionFlow-app/fusion_flow)
+**Contributor on Fusion Flow**. An open-source, low-code workflow automation platform built for all communities. It features a powerful engine for real-time task orchestration. Currently in **active development** and welcoming contributions.
+* **Tech Stack:** Elixir, Phoenix LiveView, Node.js.
 
 ---
 
