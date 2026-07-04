@@ -21,31 +21,15 @@ Always working with JavaScript/Node.js, Go or Gleam, and always learning somethi
 
 **Back-End**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<pre>
+backend   = [ <img src="https://skillicons.dev/icons?i=go&theme=dark" width="18" height="18" alt="Go" /> Go, <img src="https://skillicons.dev/icons?i=php&theme=dark" width="18" height="18" alt="PHP" /> PHP, <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="18" height="18" alt="Laravel" /> Laravel, <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="18" height="18" alt="Node.js" /> Node.js ]
 
-**Front-End**
+frontend  = [ <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="18" height="18" alt="Vue.js" /> Vue.js, <img src="https://skillicons.dev/icons?i=react&theme=dark" width="18" height="18" alt="React" /> React, <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="18" height="18" alt="Next.js" /> Next.js, <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="18" height="18" alt="TypeScript" /> TypeScript, <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="18" height="18" alt="Tailwind" /> Tailwind ]
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+database  = [ <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="18" height="18" alt="PostgreSQL" /> PostgreSQL, <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="18" height="18" alt="MongoDB" /> MongoDB, <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="18" height="18" alt="Redis" /> Redis, <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="18" height="18" alt="RabbitMQ" /> RabbitMQ ]
 
-**Databases & Messaging**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**Infra & Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+infra     = [ <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="18" height="18" alt="Docker" /> Docker, <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="18" height="18" alt="AWS" /> AWS, <img src="https://skillicons.dev/icons?i=git&theme=dark" width="18" height="18" alt="Git" /> Git ]
+</pre>
 
 ---
 
@@ -72,13 +56,6 @@ Always working with JavaScript/Node.js, Go or Gleam, and always learning somethi
 
 ---
 
-## 📖 Currently Reading
-
-[![GoodReads](https://img.shields.io/badge/GoodReads-F3722C?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/200745467-kelvin-jesus)
-
----
-
-
 ## 🪐 Beyond Code
 
-Music · Astronomy · Drawing
+Music · Astronomy · Drawing · Reading([Currently Reading](https://www.goodreads.com/user/show/200745467-kelvin-jesus))
